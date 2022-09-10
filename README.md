@@ -1,3 +1,3 @@
 # simple_form
 
-A simple form
+A simple Form
