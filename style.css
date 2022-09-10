@@ -1,0 +1,46 @@
+body {
+    background-color: #3b459e;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    letter-spacing: 1px;
+    user-select: none;
+}
+
+form {
+    display:flex;
+    justify-content: center;
+    align-items: center; 
+}
+
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.inputtext {
+    width: 400px;
+    background-color: #3b459e;
+    border: none;
+    border-bottom: solid #8992e6 2px;
+}
+
+input {
+    color:white;
+}
+
+.inputtext::placeholder {
+    color: #8992e6;
+}
+
+.trinput {
+    text-align: center;
+}
+
+.submit1 {
+    width: 90px;
+    height: 25px;
+    border-radius: 5px 5px 5px 5px;
+    font-weight: bold;
+    background-color: #3b459e;
+    border: solid white 1px;
+}
